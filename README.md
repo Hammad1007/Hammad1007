@@ -13,8 +13,11 @@ Graphic Designer
 Content Writer
 ```
 
-#### As a Developer, I am fluent with
+#### As a Developer, I am fluent with 
 ***
 ```
-
+Programming Languages such as C, C++
+Python
+Assembly Language
+HTML, CSS and Javascript
 ```
