@@ -31,7 +31,7 @@ Adobe Indesign
 Figma
 Canva
 ```
-For my work, you can visit my portfolio [Hammad Rashid Portfolio](https://hammadrashidportfolio.dorik.io) or you can view my work on my linkedin profile as well. 
+For my work, you can visit my portfolio [Hammad Rashid Portfolio](https://hammadrashidportfolio.dorik.io). 
 
 ### As a Content Writer, I am fluent with
 ***
