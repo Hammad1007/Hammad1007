@@ -21,3 +21,13 @@ Python
 Assembly Language
 HTML, CSS and Javascript
 ```
+
+#### As a Graphic Designer, I am fluent with 
+***
+```
+Adobe Illustrator
+Adobe Photoshop
+Adobe Indesign
+Figma
+Canva
+```
