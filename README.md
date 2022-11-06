@@ -12,3 +12,9 @@ Software Developer
 Graphic Designer
 Content Writer
 ```
+
+#### As a Developer, I am fluent with
+***
+```
+
+```
