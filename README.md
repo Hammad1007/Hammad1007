@@ -20,6 +20,7 @@ Programming Languages such as C, C++
 Python
 Assembly Language
 HTML, CSS and Javascript
+SQL
 ```
 
 #### As a Graphic Designer, I am fluent with 
