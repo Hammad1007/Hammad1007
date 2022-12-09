@@ -46,3 +46,4 @@ Article Writing
 Editing
 Proof reading
 ```
+For more information, kindly visit my linkedin profile [Hammad Rashid](https://www.linkedin.com/in/hammad-rashid-2b51501aa/).
