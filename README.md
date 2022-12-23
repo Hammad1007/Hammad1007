@@ -20,11 +20,13 @@ Content Writer
 #### As a Developer, I am fluent with 
 ***
 ```
-Programming Languages such as C, C++
+C
+C++
 Python
 Assembly Language
 HTML, CSS and Javascript
 SQL
+Java(Basic)
 ```
 
 #### As a Graphic Designer, I am fluent with 
