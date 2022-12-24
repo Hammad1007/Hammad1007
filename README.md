@@ -84,8 +84,6 @@ My name is Hammad Rashid and I am currenlty doing my bachelors in Computer Scien
 - ✅: Figma
 - ✅: Canva
 
-For my work, you can visit my portfolio [Hammad Rashid Portfolio](https://hammadrashidportfolio.dorik.io). 
-
 #### As a Content Writer, I am fluent with
 ***
 - ✅: Essay writing
