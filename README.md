@@ -15,6 +15,8 @@ Software Developer
 Graphic Designer
 Content Writer
 ```
+---
+### :hammer_and_wrench: Languages and Tools :
 
 #### As a Developer, I am fluent with 
 ***
