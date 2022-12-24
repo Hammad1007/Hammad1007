@@ -13,14 +13,21 @@
   </a>
 </div>
 </div>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hammad1007&style=flat-square&color=blue" align="center" alt=""/>
+</div>
+<div id="header" align="center">
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hammad1007&theme=black-ice)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad1007&theme=tokyonight&layout=compact)](https://github.com/Hammad1007/github-readme-stats)
 [![Hammad's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hammad1007&theme=react-dark)](https://github.com/Hammad1007/github-readme-activity-graph)
-
-**Visitor Count**
-![Visitor Count](https://profile-counter.glitch.me/{Hammad1007}/count.svg) 
 
 ***
 ### Hi there, I am Hammad Rashid and I am a
