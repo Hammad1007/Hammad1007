@@ -35,8 +35,9 @@ Content Writer
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"  title="PS" alt="PS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="VScode" alt="VSC" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"  title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"  title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png"  title="Indesign" alt="ID" width="40" height="40"/>&nbsp;
+</div>
 
 #### As a Developer, I am fluent with 
 ***
