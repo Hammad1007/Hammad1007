@@ -23,19 +23,14 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hammad1007&theme=black-ice)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad1007&theme=tokyonight&layout=compact)](https://github.com/Hammad1007/github-readme-stats)
-[![Hammad's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hammad1007&theme=react-dark)](https://github.com/Hammad1007/github-readme-activity-graph)
+---
 
-***
-### Hi there, I am Hammad Rashid and I am a
-```
-Software Developer
-Graphic Designer
-Content Writer
-```
+### :man_technologist: About Me :
+My name is Hammad Rashid and I am currenlty doing my bachelors in Computer Science. I have a passion for graphic designing UI/UX and I am also good at solving problems. Moreover, I love to play football in my free time and watch TV shows and seasons.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -60,35 +55,40 @@ Content Writer
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png"  title="Indesign" alt="ID" width="40" height="40"/>&nbsp;
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hammad1007&theme=black-ice)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad1007&theme=tokyonight&layout=compact)](https://github.com/Hammad1007/github-readme-stats)
+[![Hammad's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hammad1007&theme=react-dark)](https://github.com/Hammad1007/github-readme-activity-graph)
+
+
 #### As a Developer, I am fluent with 
 ***
-```
-C
-C++
-Python
-Assembly Language
-HTML, CSS and Javascript
-SQL
-Java(Basic)
-```
+
+- ✅: C
+- ✅: C++
+- ✅: Python
+- ✅: Java(Basics)
+- ✅: Assembly Language
+- ✅: MySQL
+- ✅: HTML, CSS and Javascript
+
+
 
 #### As a Graphic Designer, I am fluent with 
 ***
-```
-Adobe Illustrator
-Adobe Photoshop
-Adobe Indesign
-Figma
-Canva
-```
+
+- ✅: Adobe Illustrator
+- ✅: Adobe Photoshop
+- ✅: Adobe Indesign
+- ✅: Figma
+- ✅: Canva
+
 For my work, you can visit my portfolio [Hammad Rashid Portfolio](https://hammadrashidportfolio.dorik.io). 
 
 #### As a Content Writer, I am fluent with
 ***
-```
-Essay Writing
-Article Writing
-Editing
-Proof reading
-```
-For more information, kindly visit my linkedin profile [Hammad Rashid](https://www.linkedin.com/in/hammad-rashid-2b51501aa/).
+- ✅: Essay writing
+- ✅: Proof reading
+- ✅: Editing
+- ✅: Content creation
+
