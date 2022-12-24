@@ -8,7 +8,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Hammad1007}/count.svg) 
 
 ***
-
 ### Hi there, I am Hammad Rashid and I am a
 ***
 ```
