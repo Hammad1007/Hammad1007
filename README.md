@@ -54,6 +54,7 @@ My name is Hammad Rashid and I am currenlty doing my bachelors in Computer Scien
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="VScode" alt="VSC" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"  title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/4_Indesign_Adobe_logo_logos-512.png"  title="Indesign" alt="ID" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019–present%29.svg/2048px-Microsoft_Office_logo_%282019–present%29.svg.png"  title="Office" alt="MO" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
