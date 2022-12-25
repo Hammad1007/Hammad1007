@@ -89,5 +89,5 @@ My name is Hammad Rashid and I am currenlty doing my bachelors in Computer Scien
 - ✅ Essay writing
 - ✅ Proof reading
 - ✅ Editing
-- : Content creation
+- ✅ Content creation
 
