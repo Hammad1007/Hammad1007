@@ -65,13 +65,13 @@ My name is Hammad Rashid and I am currenlty doing my bachelors in Computer Scien
 #### As a Developer, I am fluent with 
 ***
 
-- ✅: C
-- ✅: C++
-- ✅: Python
-- ✅: Java(Basics)
-- ✅: Assembly Language
-- ✅: MySQL
-- ✅: HTML, CSS and Javascript
+- ✅ C
+- ✅ C++
+- ✅ Python
+- ✅ Java(Basics)
+- ✅ Assembly Language
+- ✅ MySQL
+- ✅ HTML, CSS and Javascript
 
 
 
