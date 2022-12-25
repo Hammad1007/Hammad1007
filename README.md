@@ -78,16 +78,16 @@ My name is Hammad Rashid and I am currenlty doing my bachelors in Computer Scien
 #### As a Graphic Designer, I am fluent with 
 ***
 
-- ✅: Adobe Illustrator
-- ✅: Adobe Photoshop
-- ✅: Adobe Indesign
-- ✅: Figma
-- ✅: Canva
+- ✅ Adobe Illustrator
+- ✅ Adobe Photoshop
+- ✅ Adobe Indesign
+- ✅ Figma
+- ✅ Canva
 
 #### As a Content Writer, I am fluent with
 ***
-- ✅: Essay writing
-- ✅: Proof reading
-- ✅: Editing
-- ✅: Content creation
+- ✅ Essay writing
+- ✅ Proof reading
+- ✅ Editing
+- : Content creation
 
