@@ -31,7 +31,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Hammad Rashid and I am currenlty doing my bachelors in Computer Science. I have a passion for graphic designing UI/UX and I am also good at solving problems. Moreover, I love to play football in my free time and watch TV shows and seasons.
+My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST University. I'm working on C, C++, Java, MySql, HTML and Database management systems. Besides, I am an avid writer and have written several articles and content writings for my clients. I am a part time graphic designer having experience with Adobe Illustrator, Adobe InDesign, Adobe Photoshop and Figma.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
