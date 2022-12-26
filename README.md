@@ -65,7 +65,7 @@ My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST 
 [![Hammad's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hammad1007&theme=react-dark)](https://github.com/Hammad1007/github-readme-activity-graph)
 
 
-### :computer: As a Developer, I am fluent with 
+#### :computer: As a Developer, I am fluent with 
 ***
 
 - ✅ C
@@ -76,7 +76,7 @@ My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST 
 - ✅ MySQL
 - ✅ HTML, CSS and Javascript
 
-### :: As a Graphic Designer, I am fluent with 
+#### 🖌️ As a Graphic Designer, I am fluent with 
 ***
 
 - ✅ Adobe Illustrator
@@ -85,7 +85,7 @@ My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST 
 - ✅ Figma
 - ✅ Canva
 
-#### As a Content Writer, I am fluent with
+#### ✍️ As a Content Writer, I am fluent with
 ***
 - ✅ Essay writing
 - ✅ Proof reading
