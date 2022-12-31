@@ -31,7 +31,7 @@
 
 ---
 ### :man_technologist: About Me :
-My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST University. I'm working on C, C++, Java, MySql, HTML and Database management systems. Besides, I am an avid writer and have written several articles and content writings for my clients. I am a part time graphic designer having experience with Adobe Illustrator, Adobe InDesign, Adobe Photoshop and Figma. Besides I have taught students Programming Fundamentals, Data structures and Algorithms.
+My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST University. I'm working on C, C++, Java, MySql, HTML and Database management systems. Besides, I am an avid writer and have written several articles and content writings for my clients. I am a part time graphic designer having experience with Adobe Illustrator, Adobe InDesign, Adobe Photoshop and Figma. Besides I have taught students Programming Fundamentals, Data structures and Algorithms. I have a strong and an affectionate bond with the cats as well❤.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
