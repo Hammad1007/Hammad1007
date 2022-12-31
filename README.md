@@ -62,7 +62,7 @@ My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hammad1007&theme=black-ice)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad1007&theme=tokyonight&layout=compact)](https://github.com/Hammad1007/github-readme-stats)
-[![Hammad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hammad1007)](https://github.com/Hammad1007/github-readme-activity-graph)
+[![Hammad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hammad1007&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Hammad1007/github-readme-activity-graph)
 
 
 #### :computer: As a Developer, I am fluent with 
