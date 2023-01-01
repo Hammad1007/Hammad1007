@@ -30,10 +30,10 @@
 </div>
 
 ---
-### :man_technologist: About Me :
+### :man_technologist: About Me 
 My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST University. I'm working on C, C++, Java, MySql, HTML and Database management systems. Besides, I am an avid writer and have written several articles and content writings for my clients. I am a part time graphic designer having experience with Adobe Illustrator, Adobe InDesign, Adobe Photoshop and Figma. Besides I have taught students Programming Fundamentals, Data structures and Algorithms. I have a strong and an affectionate bond with the cats as well❤.
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -60,7 +60,7 @@ My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png"  title="Excel" alt="MSE" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hammad1007&theme=black-ice)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad1007&theme=tokyonight&layout=compact)](https://github.com/Hammad1007/github-readme-stats)
 [![Hammad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hammad1007&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Hammad1007/github-readme-activity-graph)
