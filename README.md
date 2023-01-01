@@ -57,6 +57,7 @@ My name is Hammad Rashid and I am pursuing my Computer Science degree from FAST 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019–present%29.svg/2048px-Microsoft_Office_logo_%282019–present%29.svg.png"  title="Office" alt="MO" width="40" height="40"/>&nbsp;
   <img src="https://i.pinimg.com/564x/46/aa/96/46aa967637e21e2a7f7bbef5196a663c.jpg"  title="Word" alt="MSword" width="40" height="40"/>&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-PowerPoint-Logo-500x313.png"  title="Powerpoint" alt="MSP" width="60" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/2203px-Microsoft_Office_Excel_%282019–present%29.svg.png"  title="Excel" alt="MSE" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
